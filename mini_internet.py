@@ -1,8 +1,12 @@
+#importing required module
 import webbrowser as wb
 
+#Giving option to user
 print("1. Google\n2. YouTube")
 
+#Creating While loop
 while True:
+    #Taking input from user
     choose = input("Enter the choice (1 or 2): ")
 
     if choose == '1':
