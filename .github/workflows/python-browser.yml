@@ -2,9 +2,9 @@ name: Python Browser Test (Headless)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "mini_internet" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "mini_internet" ]
 
 jobs:
   run-script:
