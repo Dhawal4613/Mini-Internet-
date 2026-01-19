@@ -120,3 +120,10 @@ while True:
 Beginner Python Developer
 
 ---
+
+## ♥️♥️ Sponsors of this Project
+
+**1 Sponsor**
+Dhawal Bansod
+
+---
